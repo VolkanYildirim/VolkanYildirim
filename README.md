@@ -24,7 +24,7 @@ Managing telemetry, system monitoring, and incident response processes in large-
 - `[ ]` Automation of comprehensive, secure, and isolated DevSecOps CI/CD pipelines.
 
 ---
-*"Privacy is not a privilege; it is a fundamental engineering standard."*
+*"Privacy is not a privilege; it is a fundamental engineering standard..."*
 
 <br>
 <br>
@@ -53,4 +53,4 @@ Büyük ölçekli IT operasyonlarında, telemetri, sistem izleme ve müdahale s�
 - `[ ]` Tam kapsamlı, güvenli ve izole DevSecOps CI/CD süreçlerinin otomasyonu.
 
 ---
-*"Mahremiyet bir ayrıcalık değil, temel bir mühendislik standardıdır."*
+*"Mahremiyet bir ayrıcalık değil, temel bir mühendislik standardıdır..."*
